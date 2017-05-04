@@ -20,3 +20,16 @@ paste("Atkinson epsilon=0.5: ", atkinson05)
 paste("Atkinson epsilon=1: ", atkinson1)
 paste("Thiel: ", thiel)
 paste("Coef of variation: ", var_coef)
+
+
+# [1] "Gini:  0.444510730810279"
+# > paste("Atkinson epsilon=0: ", atkinson0)
+# [1] "Atkinson epsilon=0:  0"
+# > paste("Atkinson epsilon=0.5: ", atkinson05)
+# [1] "Atkinson epsilon=0.5:  0.170146049026273"
+# > paste("Atkinson epsilon=1: ", atkinson1)
+# [1] "Atkinson epsilon=1:  0.350512160004805"
+# > paste("Thiel: ", thiel)
+# [1] "Thiel:  0.324566254000937"
+# > paste("Coef of variation: ", var_coef)
+# [1] "Coef of variation:  0.819013822648111"
